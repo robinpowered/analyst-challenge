@@ -1,5 +1,5 @@
 # Data analyst challenge
-Welcome to the data analyst challenge. The purpose of this challenge is to assess your aptitude and skill with Structured Query Language (SQL). We at Robin pride ourselves on reporting accuracy, data integrity, and effective communication. In this challenge you will show us your skills by setting up tables in a SQL database, writing queries to answer 3 questions, and visually presenting your results. Visualizations can be done in your choice of tool such as MS Excel, Jupyter, etc. 
+Welcome to the data analyst challenge. The purpose of this challenge is to assess your aptitude and skill with Structured Query Language (SQL). We at Robin pride ourselves on reporting accuracy, data integrity, and effective communication. In this challenge you will show us your skills in these areas by setting up tables in a SQL database, writing queries to answer 3 questions, and visually presenting your results. Visualizations can be done in your choice of tool such as MS Excel, Jupyter, etc. 
 
 You have 5 days after receiving the challenge to return it to us. Email a zipped folder to your recruiter containing a single file for each SQL query, your data visualizations, and any supporting documents you'd like to include. We encourage the use of online resources like Stack Overflow.   
 
@@ -12,7 +12,7 @@ If you do not already have PGAdmin on your computer, download and install it fro
 Once installed, launch PGAdmin. This will open the application in a web browser. Then follow the steps below to create your tables.
 1. Create a schema by right clicking `Schemas` and selecting `create`. 
 2. Create a table for each CSV file by right clicking `Tables` and selecting `create`.
-3. In the create table dialog model, add each column from the CSV and the appropriate datatype. 
+3. In the create table dialog modal, add each column from the CSV and the appropriate datatype. 
 4. Click on each table and go to Tools > Import/Export and select Import. Choose the file you are uploading and select `Yes` under Miscellaneous > Header.  
 
 
