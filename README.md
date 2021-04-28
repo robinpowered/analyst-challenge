@@ -1,4 +1,7 @@
 # Data analyst challenge
+
+copyright 2021 Robin Powered, Inc. https://robinpowered.com/
+
 Welcome to the data analyst challenge. The purpose of this challenge is to assess your aptitude and skill with Structured Query Language (SQL). We at Robin pride ourselves on reporting accuracy, data integrity, and effective communication. In this challenge you will show us your skills in these areas by setting up tables in a SQL database, writing queries to answer 3 questions, and visually presenting your results. Visualizations can be done in your choice of tool such as MS Excel, Jupyter, etc. 
 
 You have 5 days after receiving the challenge to return it to us. Email a zipped folder to your recruiter containing a single file for each SQL query, your data visualizations, and any supporting documents you'd like to include. We encourage the use of online resources like Stack Overflow.   
