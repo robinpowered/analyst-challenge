@@ -22,14 +22,12 @@ Once installed, launch PGAdmin. This will open the application in a web browser.
 ## Questions
 
 ### 1. Which product has the highest sales in 2003 and 2004?
-Write a SQL query to show which product had the highest sales in the years 2003 and 2004. Your results should show the rank of every product, the product name, and the total sales of each product. You are only given the unit price and sales quantity, so total sales amount will need to be calculated. Did you filter some sales data out, and why?
+Write a SQL query to show which product had the highest sales in the years 2003 and 2004. Your results should show the product name and the total sales of each product. You are only given the unit price and sales quantity, so total sales amount will need to be calculated. Did you filter some sales data out, and why?
 
-Create a visualization to show your results. Be prepared to explain why you chose this visualization type, and why it works well for this data. 
+Create a visualization to show your results. Be prepared to explain why you chose this visualization type, and why it works well for this data.
 
 ### 2. What is the average, minimum, and maximum sales price per deal size?
-Write a SQL query to determine the average sales price per deal size. Did you filter some sales data out, and why? 
-
-BONUS: Compare the average to the median sales price. Do they align? Is there any significance to these results?  
+Write a SQL query to determine the average sales price per deal size. Did you filter some sales data out, and why?
 
 Create a visualization to show your results. Be prepared to explain why you chose this visualization type, and why it works well for this data. 
 
